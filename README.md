@@ -1,5 +1,6 @@
 Next:
 - Outline few blog ideas and their content
+- Continue reading [how to use Jekyll](https://docs.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll)
 - Write first post
 - Complete github pages setup on GitHub
 
