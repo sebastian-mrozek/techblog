@@ -1,6 +1,7 @@
 Next:
 - Outline few blog ideas and their content
-
+- Write first post
+- Complete github pages setup on GitHub
 
 Handy commands
 ---
